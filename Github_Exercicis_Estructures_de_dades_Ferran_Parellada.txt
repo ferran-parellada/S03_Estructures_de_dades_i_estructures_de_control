@@ -1,3 +1,0 @@
-Ferran Parellada
-Exercicis S03 T1 :  estructures de dades
-https://github.com/ferran-parellada/S03_T01_Estructures_de_dades_i_estructures_de_control/tree/main/S03_T01_Estructura_de_dades
