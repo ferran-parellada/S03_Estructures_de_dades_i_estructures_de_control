@@ -3,3 +3,9 @@ ITAcademy Data Science: contenidor dels exercicis del mòdul 3 del curs
 
 ## S03 T01: Estructura de dades
 4 exercicis
+
+## S03 T01: Estructura de dades
+Primers exercicis amb Numpy
+
+## S03 T03 Estructura de control
+4 exercicis bàsicament amb diccionaris
